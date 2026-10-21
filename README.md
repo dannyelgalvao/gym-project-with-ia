@@ -22,6 +22,6 @@ Praticar conceitos de estruturação HTML, estilização CSS, organização de c
 
 Projeto desenvolvido para fins de estudo e prática de Front-End.
 
-👨‍💻 Autor
+# Gym Project with IA
 
-Dannyel Galvão
+Você pode acessar o projeto online aqui: [Clique para acessar o site](https://dannyelgalvao.github.io/gym-project-with-ia/)
